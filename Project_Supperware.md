@@ -1,0 +1,5 @@
+Project Supperware
+
+The struggle of deciding what to eat for dinner is one that many of our generation know all too well. Dining indecision not only impacts our nutritional well-being, but also our productivity, social activity, and more. The goal of this project is to create a software that decides for you, along with justification to avoid the "second guess" that is common when flipping a coin or letting someone else decide for you. In order to do this, the application will establish user profiles to store information such as: Restaurants that have been dined at before, ratings for each of these restaurants, the last 7 restaurants that you have dined at, your own personal culinary preferences and dietary restrictions, etc, all too help calculate an "optimal" decision for where/what to eat. 
+
+In terms of scope, this project as a general concept sounds relatively easy, however the "bells and whistles" that will make the application more user oriented and personally tailored will cause the project complexity to skyrocket, depending on how many/which of these features will actually be implemented.
